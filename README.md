@@ -1,2 +1,2 @@
-# CVDClassifier
-predicts the survival of patients with heart failure
+# XRayClassifier
+Predicts if an Xray image is COVID-19, Pneumonia, or Normal
